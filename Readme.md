@@ -99,7 +99,7 @@ Each day's folder contains:
 
 ## 🎯 Goals
 
-- ✅ Solve all 25 days of challenges
+- ✅ Solve all 12 days of challenges
 - ✅ Write clean, readable, and efficient code
 - ✅ Document thought process and learning
 - ✅ Improve problem-solving skills
