@@ -111,13 +111,11 @@ Each day's folder contains:
 - [Advent of Code Subreddit](https://www.reddit.com/r/adventofcode/)
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
 ## 🤝 Contributing
 
