@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2025-brightgreen)
-![Stars](https://img.shields.io/badge/⭐_Stars-2-yellow)
+![Stars](https://img.shields.io/badge/⭐_Stars-4-yellow)
 ![Language](https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js)
 
@@ -18,7 +18,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) challenges
 | Day | Challenge | Part 1 | Part 2 | Solution | Documentation |
 |:---:|:----------|:------:|:------:|:--------:|:-------------:|
 | 01 | [Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐ | ⭐ | [Code](./Day-1) | [Docs](./Day-1/document.md) |
-| 02 | TBD | 🔒 | 🔒 | [Code](./Day-2) | [Docs](./Day-2/document.md) |
+| 02 | [Gift Shop](https://adventofcode.com/2025/day/2) | ⭐ | ⭐ | [Code](./Day-2) | [Docs](./Day-2/document.md) |
 | 03 | TBD | 🔒 | 🔒 | [Code](./Day-3) | [Docs](./Day-3/document.md) |
 | 04 | TBD | 🔒 | 🔒 | [Code](./Day-4) | [Docs](./Day-4/document.md) |
 | 05 | TBD | 🔒 | 🔒 | [Code](./Day-5) | [Docs](./Day-5/document.md) |
@@ -30,7 +30,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) challenges
 | 11 | TBD | 🔒 | 🔒 | [Code](./Day-11) | [Docs](./Day-11/document.md) |
 | 12 | TBD | 🔒 | 🔒 | [Code](./Day-12) | [Docs](./Day-12/document.md) |
 
-**Total Stars: 2/24** ⭐⭐
+**Total Stars: 4/24** ⭐⭐⭐⭐
 
 ---
 
