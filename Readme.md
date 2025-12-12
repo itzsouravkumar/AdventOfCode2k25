@@ -27,8 +27,8 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) challenges
 | 08 | [Playground](https://adventofcode.com/2025/day/8) | ⭐ | ⭐ | [Code](./Day-8) | [Docs](./Day-8/document.md) |
 | 09 | [Movie Theater](https://adventofcode.com/2025/day/9) | ⭐ | ⭐ | [Code](./Day-9) | [Docs](./Day-9/document.md) |
 | 10 | [Factory](https://adventofcode.com/2025/day/10) | ⭐ | 🔒 | [Code](./Day-10) | [Docs](./Day-10/document.md) |
-| 11 | TBD | 🔒 | 🔒 | [Code](./Day-11) | [Docs](./Day-11/document.md) |
-| 12 | TBD | 🔒 | 🔒 | [Code](./Day-12) | [Docs](./Day-12/document.md) |
+
+Sorry, I was unable to complete the remaining task due to less knowledge of the algorithms applicable there. I tried to solve those problems but everytime got stuck and couldn't proceed further. So, I decided to leave those tasks unsolved for now. Hopefully, I will be able to revisit them in the future with more experience and understanding. These challenges were definitely a great learning experience!
 
 **Total Stars: 19/24** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
